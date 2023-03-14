@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    margin-left: 50px;
+    text-shadow:0 0 5px red;
+}
+form{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.phepTinh{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
